@@ -1,7 +1,7 @@
 # Simple-Landing-Page
 Simple landing page with decent responsive approach
 
-###Archtectural HTML approach
+### HTML 
 ![Final_Version](https://user-images.githubusercontent.com/118015826/204308373-b9d44160-dfc2-40d2-8afc-16a330c45908.png)
 
 ### Desktop showcase
