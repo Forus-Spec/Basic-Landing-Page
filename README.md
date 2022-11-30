@@ -1,6 +1,19 @@
 # Simple-Landing-Page
 Simple landing page with decent responsive approach
 
+PS:
+  
+  1. Why not container wrapper instead of repeated max-width ! it's better that way feels more flexible convenient and re-usable !
+  
+  2. Why you did not style ```<header> <main> <footer>``` elements well i used them for architectural purposes 
+  
+  if you inspect element in the page (Ctrl + Shift +C) things feel more orginised and beautifully structured
+  
+  3. i used neseted border-radius in desktop screen ✨ 
+  
+  4. lack of spacing and lack of better responsive designe 
+  
+
 ### HTML 
 ![Final_Version](https://user-images.githubusercontent.com/118015826/204308373-b9d44160-dfc2-40d2-8afc-16a330c45908.png)
 
