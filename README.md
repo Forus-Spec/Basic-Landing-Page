@@ -1,4 +1,4 @@
-# Simple-Landing-Page
+# Basic-Landing-Page
 Basic landing page with decent responsive approach
 
 PS:
